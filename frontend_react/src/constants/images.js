@@ -37,6 +37,7 @@ import spotify from '../assets/spotify.png';
 import next from '../assets/next.jpg';
 import java from '../assets/java.png';
 import abdou from '../assets/abdou.png';
+import abderr from '../assets/abderr.png';
 
 export default {
     email,
@@ -74,5 +75,6 @@ export default {
     spotify,
     next,
     java,
-    abdou
+    abdou,
+    abderr
 };
